@@ -1,0 +1,19 @@
+Algorítimo
+
+Cálculo da média de 2 notas:
+
+          nota 1 + nota 2
+média =  _________________
+                 2
+
+Variáveis: 3
+media,nota1,nota2 (não inteiros)
+
+Entrada:
+nota1 e nota2
+
+Processamento:
+media = (nota1 + nota2) / 2
+
+Saída:
+media
