@@ -1,0 +1,7 @@
+Operadores Lógicos 
+
+And = &&
+
+Or = ||
+
+Not = !
