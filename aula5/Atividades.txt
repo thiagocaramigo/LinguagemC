@@ -1,0 +1,3 @@
+1) Adicionar no sistema de gestão da academia o Status do IMC do aluno de acordo com a tabela do IMC
+
+2) Adicionar no sistema de gestão escolar o status (APROVADO ou REPROVADO)
